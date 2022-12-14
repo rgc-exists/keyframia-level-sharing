@@ -1,1 +1,2 @@
+This file is downloaded from GitHub and compares it to the current version of Keyframia on the player's computer. if there is a new update. If there IS a new update, it sends a message to the user. DO NOT TOUCH THIS.
 v0.1
