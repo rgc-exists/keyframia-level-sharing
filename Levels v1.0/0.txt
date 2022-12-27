@@ -1,1 +1,4 @@
-{"name":Scribbly Monster, "author":RGC Exists}
+{
+	"name": "Scribbly Monster",
+	"author": "RGC Exists"
+}
